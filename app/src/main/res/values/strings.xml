@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">リスト選択サンプル</string>
+    <string-array name="lv_menu">
+        <item>唐揚げ</item>
+        <item>ハンバーグ</item>
+        <item>生姜焼き</item>
+        <item>ステーキ</item>
+        <item>野菜炒め</item>
+    </string-array>
+</resources>
